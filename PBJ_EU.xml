@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\shann\Dropbox\moog\PBJ_EU_3\PBJ_EU.kicad_sch</source>
+    <date>2025-02-04T11:53:57-0800</date>
+    <tool>Eeschema 8.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PBJ EU</title>
+        <company>Greenface Labs</company>
+        <rev>9.0</rev>
+        <date/>
+        <source>PBJ_EU.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="B1">
+      <value>Breadboard_400</value>
+      <footprint>panel:Proto_400</footprint>
+      <fields>
+        <field name="Digi-Key Part">1286-1185-ND</field>
+        <field name="Footprint">panel:Proto_400</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="greenface-symbols" part="Breadboard_400" description=""/>
+      <property name="Digi-Key Part" value="1286-1185-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006174f756</tstamps>
+    </comp>
+    <comp ref="B2">
+      <value>Breadboard_400</value>
+      <footprint>panel:Proto_400</footprint>
+      <fields>
+        <field name="Digi-Key Part">1286-1185-ND</field>
+        <field name="Footprint">panel:Proto_400</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="greenface-symbols" part="Breadboard_400" description=""/>
+      <property name="Digi-Key Part" value="1286-1185-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006175196b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x06_Odd_Even</value>
+      <footprint>greenface:PinSocket_2x06_P2.54mm_Vertical_SMD_no_holes</footprint>
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Digi-Key Part">S5715-ND</field>
+        <field name="LCSC Part #">C3975151</field>
+        <field name="Footprint">greenface:PinSocket_2x06_P2.54mm_Vertical_SMD_no_holes</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="S5715-ND"/>
+      <property name="LCSC Part #" value="C3975151"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28d42bcd-4bd2-47ff-8c31-5e7cf51cf37f</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_02x08_Odd_Even_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Digi-Key Part">S7111-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="greenface-symbols" part="Conn_02x08_Odd_Even_Female" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="S7111-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fae5a66</tstamps>
+    </comp>
+    <comp ref="JC1">
+      <value>Eurorack Power Cable</value>
+      <fields>
+        <field name="Digi-Key Part">H3CCS-1018G-ND</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="H3CCS-1018G-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91729458-8697-42b7-9e13-d070cd127900</tstamps>
+    </comp>
+    <comp ref="SC1">
+      <value>Mounting Screw</value>
+      <fields>
+        <field name="Digi-Key Part">335-1156-ND</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Digi-Key Part" value="335-1156-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0851a40e-5360-4d1b-a9b4-50e9521b6831</tstamps>
+    </comp>
+    <comp ref="SC2">
+      <value>Mounting Screw</value>
+      <fields>
+        <field name="Digi-Key Part">335-1156-ND</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Digi-Key Part" value="335-1156-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9359910f-cbd3-4d85-82c8-583f29970e00</tstamps>
+    </comp>
+    <comp ref="SC3">
+      <value>Mounting Screw</value>
+      <fields>
+        <field name="Digi-Key Part">335-1156-ND</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Digi-Key Part" value="335-1156-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc8634b5-d213-404a-bd0b-964511083cde</tstamps>
+    </comp>
+    <comp ref="SC4">
+      <value>Mounting Screw</value>
+      <fields>
+        <field name="Digi-Key Part">335-1156-ND</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Digi-Key Part" value="335-1156-ND"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>213991cf-fe9e-4a4c-bc02-13eb6b17cc33</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa71858</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa719b7</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa71ffa</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa725db</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dec92fc-8627-4eed-9d92-b1adea29c4d9</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eef8bd8-d679-484b-8f13-b757583c31de</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dd69fb6-3aa6-464b-a04f-8765f89115b2</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part">36-5006-ND</field>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value="36-5006-ND"/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6deca72-a794-4a6e-8cd5-631ea87be161</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part"/>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value=""/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614f5b42</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part"/>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value=""/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615cfb1b</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part"/>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value=""/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615cfd6c</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <fields>
+        <field name="Digi-Key Part"/>
+        <field name="LCSC Part #"/>
+        <field name="Footprint">TestPoint:TestPoint_Keystone_5005-5009_Compact</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digi-Key Part" value=""/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615cffe5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">test point</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="greenface-symbols" part="Breadboard_400">
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">Breadboard_400</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+    </libpart>
+    <libpart lib="greenface-symbols" part="Conn_02x08_Odd_Even_Female">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even_Female</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="greenface-symbols" part="small_logo">
+      <fields>
+        <field name="Reference">GR</field>
+        <field name="Value">small_logo</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="greenface-symbols">
+      <uri>C:/Users/shann/Dropbox/KiCAD/greenface-symbols.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="2" name="-12V">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="3" name="A Rail">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J6" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="4" name="B Rail">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J6" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="J6" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J6" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="SW1">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="7" name="SW2">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="8" name="SW3">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J6" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="9" name="SW4">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J6" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="10" name="Tip1">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Tip2">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Tip3">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J6" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Tip4">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J6" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="unconnected-(JC1-Pin_1-Pad1)">
+      <node ref="JC1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="15" name="unconnected-(JC1-Pin_2-Pad2)">
+      <node ref="JC1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="16" name="unconnected-(JC1-Pin_3-Pad3)">
+      <node ref="JC1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(JC1-Pin_4-Pad4)">
+      <node ref="JC1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="18" name="unconnected-(JC1-Pin_5-Pad5)">
+      <node ref="JC1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="19" name="unconnected-(JC1-Pin_6-Pad6)">
+      <node ref="JC1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="20" name="unconnected-(JC1-Pin_7-Pad7)">
+      <node ref="JC1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(JC1-Pin_8-Pad8)">
+      <node ref="JC1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(JC1-Pin_9-Pad9)">
+      <node ref="JC1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(JC1-Pin_10-Pad10)">
+      <node ref="JC1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+  </nets>
+</export>
