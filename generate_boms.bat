@@ -1,7 +1,7 @@
 @echo off
 
 echo This creates BOM files for building the PBJ EU
-echo It requires PBJ_EU.xml as an input. Make sure that it is up to date. Use the KiCAD schematic BOM generator with the bom2grouped_csv.xsl plugin that's supplied with KiCAD.
+echo It requires PBJ_EU.xml as an input. Make sure that it is up to date. Use the KiCAD schematic legacy BOM generator with the bom2grouped_csv.xsl plugin that's supplied with KiCAD.
 
 set bin_dir=C:\Program Files\KiCad\bin
 set plugin_dir=C:\Users\shann\Dropbox\Python\BOM

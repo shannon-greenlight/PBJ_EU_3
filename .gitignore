@@ -9,3 +9,4 @@ zip
 changes.bat
 backit.bat
 sym-lib-table
+*.lck

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\shann\Dropbox\moog\PBJ_EU_3\PBJ_EU.kicad_sch</source>
-    <date>2025-02-04T11:53:57-0800</date>
+    <date>2025-02-13T12:56:55-0800</date>
     <tool>Eeschema 8.0.5</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -96,24 +96,6 @@
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005fae5a66</tstamps>
-    </comp>
-    <comp ref="JC1">
-      <value>Eurorack Power Cable</value>
-      <fields>
-        <field name="Digi-Key Part">H3CCS-1018G-ND</field>
-        <field name="Footprint"/>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Digi-Key Part" value="H3CCS-1018G-ND"/>
-      <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="PBJ_EU.kicad_sch"/>
-      <property name="exclude_from_board"/>
-      <property name="ki_keywords" value="connector"/>
-      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>91729458-8697-42b7-9e13-d070cd127900</tstamps>
     </comp>
     <comp ref="SC1">
       <value>Mounting Screw</value>
@@ -447,32 +429,6 @@
         <pin num="1" name="1" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
-      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Connector*:*_2x??_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Conn_02x05_Odd_Even</field>
-        <field name="Footprint"/>
-        <field name="Datasheet">~</field>
-        <field name="Description">Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
-      </fields>
-      <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-        <pin num="2" name="Pin_2" type="passive"/>
-        <pin num="3" name="Pin_3" type="passive"/>
-        <pin num="4" name="Pin_4" type="passive"/>
-        <pin num="5" name="Pin_5" type="passive"/>
-        <pin num="6" name="Pin_6" type="passive"/>
-        <pin num="7" name="Pin_7" type="passive"/>
-        <pin num="8" name="Pin_8" type="passive"/>
-        <pin num="9" name="Pin_9" type="passive"/>
-        <pin num="10" name="Pin_10" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
       <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <docs>~</docs>
@@ -663,36 +619,6 @@
       <node ref="J6" pin="12" pinfunction="Pin_12" pintype="passive"/>
       <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
-    </net>
-    <net code="14" name="unconnected-(JC1-Pin_1-Pad1)">
-      <node ref="JC1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-    </net>
-    <net code="15" name="unconnected-(JC1-Pin_2-Pad2)">
-      <node ref="JC1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-    </net>
-    <net code="16" name="unconnected-(JC1-Pin_3-Pad3)">
-      <node ref="JC1" pin="3" pinfunction="Pin_3" pintype="passive"/>
-    </net>
-    <net code="17" name="unconnected-(JC1-Pin_4-Pad4)">
-      <node ref="JC1" pin="4" pinfunction="Pin_4" pintype="passive"/>
-    </net>
-    <net code="18" name="unconnected-(JC1-Pin_5-Pad5)">
-      <node ref="JC1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-    </net>
-    <net code="19" name="unconnected-(JC1-Pin_6-Pad6)">
-      <node ref="JC1" pin="6" pinfunction="Pin_6" pintype="passive"/>
-    </net>
-    <net code="20" name="unconnected-(JC1-Pin_7-Pad7)">
-      <node ref="JC1" pin="7" pinfunction="Pin_7" pintype="passive"/>
-    </net>
-    <net code="21" name="unconnected-(JC1-Pin_8-Pad8)">
-      <node ref="JC1" pin="8" pinfunction="Pin_8" pintype="passive"/>
-    </net>
-    <net code="22" name="unconnected-(JC1-Pin_9-Pad9)">
-      <node ref="JC1" pin="9" pinfunction="Pin_9" pintype="passive"/>
-    </net>
-    <net code="23" name="unconnected-(JC1-Pin_10-Pad10)">
-      <node ref="JC1" pin="10" pinfunction="Pin_10" pintype="passive"/>
     </net>
   </nets>
 </export>

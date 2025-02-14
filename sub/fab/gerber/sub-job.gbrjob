@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.5"
     },
-    "CreationDate": "2025-01-25T11:58:12-08:00"
+    "CreationDate": "2025-02-12T17:57:21-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "sub",
       "GUID": "7375622e-6b69-4636-9164-5f7063625858",
-      "Revision": "3.1"
+      "Revision": "3.2"
     },
     "Size": {
       "X": 111.5,
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.1,
+      "MinLineWidth": 0.2,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
