@@ -8,7 +8,7 @@ set base_file=PBJ_EU
 
 py "%plugin_dir%/bom_lcsc.py" "%base_file%.xml" "bom\LCSC\%base_file%_bom.csv"
 
-py "%plugin_dir%/bom_other.py" "%base_file%.xml" "bom\Other\%base_file%_bom.csv"
+rem py "%plugin_dir%/bom_other.py" "%base_file%.xml" "bom\Other\%base_file%_bom.csv"
 
 py "%plugin_dir%/bom_digikey_split.py" "%base_file%.xml" "bom\Digi-Key\%base_file%_split.csv"
 

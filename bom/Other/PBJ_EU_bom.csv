@@ -1,6 +1,0 @@
-"Designator","Comment","Footprint","Other"
-"B1, B2, ","Breadboard_400","panel:Proto_400",""
-"J1, ","Conn_02x06_Odd_Even","greenface:PinSocket_2x06_P2.54mm_Vertical_SMD_no_holes",""
-"J6, ","Conn_02x08_Odd_Even_Female","Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical",""
-"SC1, SC2, SC3, SC4, ","Mounting Screw","",""
-"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, ","TestPoint","TestPoint:TestPoint_Keystone_5005-5009_Compact",""

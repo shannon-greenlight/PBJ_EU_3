@@ -18,4 +18,4 @@ cols = [col for col in cols if col != target_col] + [target_col]
 df = df[cols]
 
 # Write the result to a new CSV file
-df.to_csv('bom\Digi-Key\PBJ_EU_combined.csv', index=False)
+df.to_csv('bom/Digi-Key/PBJ_EU_combined.csv', index=False)
