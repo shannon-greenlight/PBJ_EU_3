@@ -1,0 +1,47 @@
+### Footprint positions - created on 2025-07-21T08:19:49-0700 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                           PosX       PosY       Rot  Side
+C1        100nF                C_0603_1608Metric                             120.3960  -128.2700  -90.0000  bottom
+C2        10uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   127.7620  -126.5135  -90.0000  bottom
+C3        22uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   109.2200  -126.2380  -90.0000  bottom
+C4        100nF                C_0603_1608Metric                             142.4940  -128.2700  -90.0000  bottom
+C5        10uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   149.8880  -126.4920  -90.0000  bottom
+C6        100nF                C_0603_1608Metric                              61.4550  -131.0640  180.0000  bottom
+C7        100nF                C_0603_1608Metric                              72.1490  -135.4820  180.0000  bottom
+C8        22uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   131.5720  -126.2380  -90.0000  bottom
+C9        10nF                 C_0603_1608Metric                              62.2300  -133.3500   90.0000  bottom
+C10       10nF                 C_0603_1608Metric                             119.8880  -133.2370   90.0000  bottom
+C11       100nF                C_0603_1608Metric                             119.1130  -130.9640  180.0000  bottom
+C12       100nF                C_0603_1608Metric                             127.7620  -137.9220   90.0000  bottom
+C13       10nF                 C_0603_1608Metric                              71.3740  -131.6720   90.0000  bottom
+C14       10nF                 C_0603_1608Metric                             129.0320  -131.8260   90.0000  bottom
+C15       22uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    89.2100  -135.1500  -90.0000  bottom
+C16       22uF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   103.1800  -126.7800  -90.0000  bottom
+D2        1N5819WS             D_SOD-323                                      64.8075  -129.5400  180.0000  bottom
+D4        1N5819WS             D_SOD-323                                      64.7925  -122.5500    0.0000  bottom
+J6        Conn_02x05_Odd_Even  PinHeader_2x05_P2.54mm_Vertical                92.4400  -126.5000   90.0000  bottom
+R1        620                  R_0603_1608Metric                              41.4020  -124.9680   90.0000  bottom
+R2        620                  R_0603_1608Metric                              53.0860  -121.6660   90.0000  bottom
+R3        2.2K                 R_0603_1608Metric                              41.4020  -130.5560  -90.0000  bottom
+R4        2.2K                 R_0603_1608Metric                              53.0860  -130.5560  -90.0000  bottom
+R5        620                  R_0603_1608Metric                             120.3960  -123.6980   90.0000  bottom
+R6        620                  R_0603_1608Metric                             142.4980  -123.6980   90.0000  bottom
+R7        510                  R_0603_1608Metric                              59.8810  -134.1120    0.0000  bottom
+R8        1M                   R_0603_1608Metric                              63.7540  -137.7310  -90.0000  bottom
+R9        510                  R_0603_1608Metric                             119.1890  -135.5360    0.0000  bottom
+R10       1M                   R_0603_1608Metric                             121.1580  -138.1760  -90.0000  bottom
+R11       1M                   R_0603_1608Metric                              61.4680  -135.6360  180.0000  bottom
+R12       1M                   R_0603_1608Metric                             119.6340  -138.1760  -90.0000  bottom
+R13       510                  R_0603_1608Metric                              73.5970  -132.3340  180.0000  bottom
+R14       1M                   R_0603_1608Metric                              70.3580  -138.0130  -90.0000  bottom
+R15       510                  R_0603_1608Metric                             131.3180  -132.5880  180.0000  bottom
+R16       1M                   R_0603_1608Metric                             129.7940  -135.6360    0.0000  bottom
+R17       1M                   R_0603_1608Metric                              72.1990  -133.9580    0.0000  bottom
+R18       1M                   R_0603_1608Metric                             129.7940  -134.1120    0.0000  bottom
+U1        LM317                SOT-223-3_TabPin2                             115.0620  -125.2000  180.0000  bottom
+U2        TL072CDR             SOIC-8_3.9x4.9mm_P1.27mm                       66.8020  -133.3500  180.0000  bottom
+U3        LM317                SOT-223-3_TabPin2                             137.2080  -125.2000  180.0000  bottom
+U4        TL072CDR             SOIC-8_3.9x4.9mm_P1.27mm                      124.5000  -133.3500  180.0000  bottom
+## End

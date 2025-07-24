@@ -1,0 +1,26 @@
+### Footprint positions - created on 2025-07-21T08:19:49-0700 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                      PosX       PosY       Rot  Side
+D1        LED_RG               LED_D3.0mm                                51.1300  -147.4500    0.0000  top
+D3        LED_RG               LED_D3.0mm                                79.4300  -147.4500    0.0000  top
+D5        LED_RG               LED_D3.0mm                               109.4300  -147.4500    0.0000  top
+D7        LED_RG               LED_D3.0mm                               137.7300  -147.4500    0.0000  top
+D9        GREEN_LED            LED_D3.0mm                                43.4200  -124.0000    0.0000  top
+D10       YELLOW_LED           LED_D3.0mm                                48.5250  -124.0000    0.0000  top
+D11       RED_LED              LED_D3.0mm                                43.4650  -129.6500    0.0000  top
+D12       BLUE_LED             LED_D3.0mm                                48.5500  -129.6500    0.0000  top
+GR1       small_logo           small_face                               135.8900  -127.2540    0.0000  top
+J1        Thonk_3.5mm_Jack     Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical    52.4000  -140.7500  -90.0000  top
+J2        Thonk_3.5mm_Jack     Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical    80.7000  -140.7500  -90.0000  top
+J3        Thonk_3.5mm_Jack     Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical   110.7000  -140.7500   90.0000  top
+J4        Thonk_3.5mm_Jack     Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical   139.0000  -140.7500   90.0000  top
+J5        Conn_02x06_Odd_Even  PinHeader_2x06_P2.54mm_Vertical           92.4400  -133.7400   90.0000  top
+RV1       5K                   Potentiometer_Bourns_3296W_Vertical      123.9280  -128.0000  -90.0000  top
+RV2       5K                   Potentiometer_Bourns_3296W_Vertical      146.0780  -128.0000  -90.0000  top
+SW1       SW_SPDT              SW_Slide_EG1248                           95.7000  -142.0000  -90.0000  top
+SW2       SW_SPDT              SW_Slide_EG1248                           67.0000  -142.0000  -90.0000  top
+SW3       SW_SPDT              SW_Slide_EG1248                          124.4000  -142.0000  -90.0000  top
+SW4       MFS201N-9-Z          MFS201N−9−Z                           63.7500  -126.0000    0.0000  top
+## End
