@@ -7599,7 +7599,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C76637"
+		(property "LCSC Part #" "C45783"
 			(at 193.04 142.24 0)
 			(effects
 				(font
@@ -8665,7 +8665,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C76637"
+		(property "LCSC Part #" "C45783"
 			(at 113.03 151.13 0)
 			(effects
 				(font
@@ -9570,7 +9570,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C76637"
+		(property "LCSC Part #" "C45783"
 			(at 113.03 140.97 0)
 			(effects
 				(font
@@ -10980,7 +10980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 85.09 161.925 0)
 			(effects
 				(font
@@ -10999,6 +10999,15 @@
 			)
 		)
 		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
+			(at 85.09 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C191023"
 			(at 85.09 157.48 0)
 			(effects
 				(font
@@ -12331,7 +12340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 85.09 130.175 0)
 			(effects
 				(font
@@ -12350,6 +12359,15 @@
 			)
 		)
 		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
+			(at 85.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C191023"
 			(at 85.09 134.62 0)
 			(effects
 				(font
@@ -13111,7 +13129,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C76637"
+		(property "LCSC Part #" "C45783"
 			(at 254 142.24 0)
 			(effects
 				(font

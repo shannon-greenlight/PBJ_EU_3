@@ -1,0 +1,14 @@
+### Footprint positions - created on 2025-08-03T14:15:02-0700 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                               PosX       PosY       Rot  Side
+H5        Adj_1                Potentiometer_Sidecar              50.0000   -48.6000  -90.0000  top
+H26       Adj_2                Potentiometer_Sidecar              50.0000   -75.7000  -90.0000  top
+H27       Adj_3                Potentiometer_Sidecar              50.0000  -102.8300  -90.0000  top
+H28       Adj_4                Potentiometer_Sidecar              50.0000  -129.8500  -90.0000  top
+J1        Conn_02x03_Odd_Even  PinSocket_2x03_P2.54mm_Vertical    47.4600   -63.3000   90.0000  top
+J2        Conn_02x03_Odd_Even  PinSocket_2x03_P2.54mm_Vertical    47.4600   -90.4900   90.0000  top
+J3        Conn_02x03_Odd_Even  PinSocket_2x03_P2.54mm_Vertical    47.4600  -117.6100   90.0000  top
+J4        Conn_02x03_Odd_Even  PinSocket_2x03_P2.54mm_Vertical    47.3800  -144.5500   90.0000  top
+## End

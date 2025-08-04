@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\shann\Dropbox\moog\PBJ_EU\sidecar\sidecar.kicad_sch</source>
+    <date>2025-08-03T14:44:25-0700</date>
+    <tool>Eeschema 8.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Pipes Panel</title>
+        <company/>
+        <rev>1.1</rev>
+        <date/>
+        <source>sidecar.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Digi-Key Part">S7071-ND</field>
+        <field name="LCSC Part #">C2897404</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="S7071-ND"/>
+      <property name="LCSC Part #" value="C2897404"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="sidecar.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d66bd8f-d135-48e9-b121-2d05a15db56b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Digi-Key Part">S7071-ND</field>
+        <field name="LCSC Part #">C2897404</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="S7071-ND"/>
+      <property name="LCSC Part #" value="C2897404"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="sidecar.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78a474a0-d5b9-4132-9dc2-f0b48f5faa20</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Digi-Key Part">S7071-ND</field>
+        <field name="LCSC Part #">C2897404</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="S7071-ND"/>
+      <property name="LCSC Part #" value="C2897404"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="sidecar.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03796d44-0fc0-4788-868d-79af5e0a232b</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</footprint>
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Digi-Key Part">S7071-ND</field>
+        <field name="LCSC Part #">C2897404</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digi-Key Part" value="S7071-ND"/>
+      <property name="LCSC Part #" value="C2897404"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="sidecar.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>605d3d12-98b9-4410-9d1d-1abb016bde2d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Top_Bottom">
+      <description>Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Top_Bottom</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Graphic" part="Logo_Open_Hardware_Small">
+      <description>Open Hardware logo, small</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">#LOGO</field>
+        <field name="Value">Logo_Open_Hardware_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Open Hardware logo, small</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="greenface-symbols" part="small_logo">
+      <fields>
+        <field name="Reference">GR</field>
+        <field name="Value">small_logo</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Graphic">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Graphic.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="2" name="Net-(H5-Pin_1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(H5-Pin_2)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(H5-Pin_3)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(H5-Pin_4)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(H5-Pin_5)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(H5-Pin_6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(H26-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(H26-Pin_2)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(H26-Pin_3)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(H26-Pin_4)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(H26-Pin_5)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(H26-Pin_6)">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(H27-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(H27-Pin_2)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(H27-Pin_3)">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(H27-Pin_4)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(H27-Pin_5)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(H27-Pin_6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(H28-Pin_1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(H28-Pin_2)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(H28-Pin_3)">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(H28-Pin_4)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(H28-Pin_5)">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(H28-Pin_6)">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+  </nets>
+</export>

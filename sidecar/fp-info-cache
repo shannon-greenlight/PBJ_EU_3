@@ -1,4 +1,4 @@
-24821743658720301
+24823498203419040
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99891,6 +99891,13 @@ Potentiometer vertical Bourns PTV09A-1 Single
 0
 panel
 Potentiometer_Generic_6mm
+Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer vertical Bourns PTV09A-1 Single
+0
+6
+6
+panel
+Potentiometer_Sidecar
 Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
 Potentiometer vertical Bourns PTV09A-1 Single
 0
